@@ -1,0 +1,16 @@
+{
+  "name": "28.02.24-node",
+  "version": "1.0.0",
+  "description": "node.knex",
+  "main": "knex.js",
+  "scripts": {
+    "start": "node knex.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roba moadi",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
